@@ -1,0 +1,15 @@
+Building a tree
+Traversing t1 in order
+6 15 17 20 35 40 60 75 100 150 200 
+The count of t1 is: 11
+6 17 15 40 35 20 75 150 200 100 60 
+Is t1 equal to t2? false
+Traversing t2 post order
+150 200 75 100 40 35 17 6 15 20 60 
+Are t1 and t2 equal: true
+Building a tree
+Are t1 and t3 equal: false
+Traversing t3 in order
+6 17 20 35 40 60 75 100 150 200 
+Data inorder node 5 is: 40
+

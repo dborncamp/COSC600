@@ -1,0 +1,37 @@
+Printing depth first: 
+Starting at: washington
+ washington color: RED,  oregon color: GREEN,  california color: RED,  nevada color: BLUE,  idaho color: YELLOW,  montana color: GREEN,  wyoming color: BLUE,  utah color: RED,  arizona color: GREEN,  new_mexico color: BLUE,  colorado color: GREEN,  nebraska color: RED,  kansas color: BLUE,  north_dakota color: RED,  south_dakota color: YELLOW,  minisota color: GREEN,  iowa color: BLUE,  missouri color: GREEN,  oklahoma color: RED,  texas color: GREEN,  arkansas color: BLUE,  louisana color: RED,  mississippi color: GREEN,  tennessee color: RED,  kentucky color: YELLOW,  ohio color: BLUE,  michigan color: RED,  wisconsin color: YELLOW,  illinois color: RED,  indianna color: GREEN,  Level: 0
+
+ west_vrigina color: RED,  virgina color: BLUE,  north_carolina color: GREEN,  south_carolina color: RED,  georgia color: YELLOW,  alabama color: BLUE,  florida color: GREEN,  Level: 1
+
+ maryland color: GREEN,  pennsylvana color: YELLOW,  deleware color: RED,  new_jersey color: GREEN,  new_york color: RED,  connecticuit color: GREEN,  massachusetts color: BLUE,  rhode_island color: RED,  Level: 2
+
+ vermont color: GREEN,  new_hampshire color: RED,  maine color: GREEN,  Level: 3
+
+Printing breadth first: 
+Starting at: washington
+ Level: 0
+  washington Color: RED
+ Level: 1
+  oregon: GREEN  idaho: YELLOW
+ Level: 2
+  california: RED  nevada: BLUE  montana: GREEN  utah: RED  wyoming: BLUE
+ Level: 3
+  arizona: GREEN  north_dakota: RED  south_dakota: YELLOW  colorado: GREEN  nebraska: RED
+ Level: 4
+  new_mexico: BLUE  minisota: GREEN  iowa: BLUE  kansas: BLUE  oklahoma: RED  missouri: GREEN
+ Level: 5
+  texas: GREEN  wisconsin: YELLOW  michigan: RED  illinois: RED  arkansas: BLUE  kentucky: YELLOW  tennessee: RED
+ Level: 6
+  louisana: RED  indianna: GREEN  ohio: BLUE  mississippi: GREEN  virgina: BLUE  west_vrigina: RED  alabama: BLUE  georgia: YELLOW  north_carolina: GREEN
+ Level: 7
+  pennsylvana: YELLOW  maryland: GREEN  florida: GREEN  south_carolina: RED
+ Level: 8
+  deleware: RED  new_york: RED  new_jersey: GREEN
+ Level: 9
+  connecticuit: GREEN  massachusetts: BLUE  vermont: GREEN
+ Level: 10
+  rhode_island: RED  new_hampshire: RED
+ Level: 11
+  maine: GREEN
+
